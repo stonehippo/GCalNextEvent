@@ -11,4 +11,4 @@ An Arduino gadget to get and display the next event in a given Google Calender v
 ## Hardware
 
 * Arduino
-* Adafruit CC3000 sheild or breakout board
+* Adafruit CC3000 shield or breakout board
